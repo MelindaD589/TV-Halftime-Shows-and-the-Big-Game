@@ -10,9 +10,6 @@ Topics:
 - Data Manipulation
 - Data Visualization
 - Importing & Cleaning Data
-- Data Manipulation
-- Data Visualization
-- Importing & Cleaning Data
 
 Project Description:
 
